@@ -1,0 +1,7 @@
+---
+booking:
+  greeting: Bonjour !
+  event_type: Type d’événement
+  html: Il s’agit d’un %{adjective} idée !
+  url: /help/hc/en-us/articles/226893108-Make-an-event-type-secret
+  xyz: 'Then again... maybe not'
