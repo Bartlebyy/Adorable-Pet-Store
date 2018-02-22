@@ -3,3 +3,4 @@ booking:
   event_type: Event Type
   html: This is a %{adjective} idea!
   url: /help/hc/en-us/articles/226893108-Make-an-event-type-secret
+  xyz: 'Then again... maybe not'
