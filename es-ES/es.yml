@@ -1,9 +1,4 @@
 ---
 booking:
-  greeting: Good morning!
-  event_type: Event Type
-  html: This is a %{adjective} idea!
-  url: /help/hc/en-us/articles/226893108-Make-an-event-type-secret
-  home: Calendly
-  text: Calendly helps you schedule meetings without the back-and-forth emails
-  message: Get started for free. No credit card required.
+  greeting: Bonjour!
+  event_type: Evento Typo
