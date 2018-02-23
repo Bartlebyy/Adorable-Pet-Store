@@ -1,1 +1,9 @@
 ---
+booking:
+  greeting: '¡Buenos días!'
+  event_type: Tipo de evento
+  html: Se trata de un %{adjective} ¡la idea!
+  url: /help/hc/en-us/articles/226893108-Make-an-event-type-secret
+  home: Calendly
+  text: Calendly le ayuda a programar reuniones sin los emails y hacia atrás
+  message: Comenzar gratis. No requerida tarjeta de crédito.

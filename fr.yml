@@ -2,3 +2,10 @@
 booking:
   greeting: Bonjour!
   event_type: Evento Typo
+  html: Il s’agit d’un %{adjective} idée !
+  url: /help/hc/en-us/articles/226893108-Make-an-event-type-secret
+  home: Calendly
+  text: Calendly vous aide à planifier des réunions sans les e-mails de l’arrière-et-vient
+  message: Initiez-vous gratuitement. Aucune carte de crédit.
+  video_watch: Regardez notre vidéo
+  team_scheduling: L’ÉQUIPE DE PLANIFICATION
