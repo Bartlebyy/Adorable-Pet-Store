@@ -7,4 +7,5 @@ booking:
   text: Calendly helps you schedule meetings without the back-and-forth emails
   message: Get started for free. No credit card required.
   video_watch: Watch our video
-  team_scheduling: TEAM SCHEDULING
+  team_scheduling: change team scheduling in branch_1
+  enter_email: Enter your email
