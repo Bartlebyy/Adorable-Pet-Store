@@ -8,6 +8,7 @@ booking:
   message: Get started for free. No credit card required.
   video_watch: Watch our video
   team_scheduling: branch_2
-  sign_up: signup
+  sign_up: Sign Up
   enter_email: Enter your email
   random: random
+  title: title
