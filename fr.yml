@@ -1,1 +1,11 @@
 ---
+booking:
+  greeting: Bonjour!
+  event_type: Evento Typo
+  html: Il s’agit d’un %{adjective} idée !
+  text: Calendly vous aide à planifier des réunions sans les e-mails de l’arrière-et-vient
+  message: Initiez-vous gratuitement. Aucune carte de crédit.
+  video_watch: Regardez notre vidéo
+  sign_up: Signup
+  enter_email: Entrez votre email
+  random: au hasard
