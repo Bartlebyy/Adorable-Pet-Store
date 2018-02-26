@@ -12,3 +12,4 @@ booking:
   sign_up: signup
   enter_email: Introduzca su correo electrónico
   random: al azar
+  title: Título
