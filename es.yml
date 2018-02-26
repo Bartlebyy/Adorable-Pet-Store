@@ -1,1 +1,11 @@
 ---
+booking:
+  greeting: '¡Buenos días!'
+  event_type: Tipo de evento
+  html: Se trata de un %{adjective} ¡la idea!
+  text: Calendly le ayuda a programar reuniones sin los emails y hacia atrás
+  message: Comenzar gratis. No requerida tarjeta de crédito.
+  video_watch: Ver nuestro video
+  sign_up: signup
+  enter_email: Introduzca su correo electrónico
+  random: al azar
